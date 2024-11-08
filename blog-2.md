@@ -101,3 +101,4 @@ Promise.all waits for all promises to resolve or rejects if any of them fails.
 Summary
 Using async/await in TypeScript improves readability, simplifies error handling, and allows for more maintainable asynchronous code. By moving from traditional callbacks and Promises to async/await, you can create cleaner, more concise TypeScript code that’s easier to debug and reason about.
 
+
